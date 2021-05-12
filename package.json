@@ -29,7 +29,7 @@
     "eslint-plugin-vue": "^5.0.0",
     "less": "^3.10.3",
     "less-loader": "^5.0.0",
-    "postcss": "^7.0.24",
+    "postcss": "^8.2.10",
     "postcss-loader": "^3.0.0",
     "vue-cli-plugin-element": "^1.0.1",
     "vue-table-with-tree-grid": "^0.2.4",
